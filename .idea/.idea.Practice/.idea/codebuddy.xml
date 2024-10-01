@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodebuddyPersistentProjectState">
+    <option name="promptHistory">
+      <list>
+        <option value="public interface IPositionHolder&#10;{&#10;    Vector3 Position { get; }&#10;}&#10;&#10;public interface ILooker&#10;{&#10;    Vector3 LookDirection { get; }&#10;}&#10;&#10;Как лучше назвать эти интерфейсы?" />
+      </list>
+    </option>
+    <option name="selectedModel" value="codebuddy:GPT_4_Omni_Mini_V7" />
+  </component>
+</project>
